@@ -1,7 +1,26 @@
+/* --- DESIGN SYSTEM & TOKENS --- */
+:root {
+    --primary: #0056b3;
+    --primary-dark: #003d82;
+    --accent: #ffc107;
+    --bg-tinted: #f4f7f9; /* Tinted white background */
+    --white: #ffffff;
+    --text-main: #2b303a;
+    --text-muted: #5a6578;
+    --border-color: #e2e8f0;
+    --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --max-width: 1200px;
+}
+
+/* --- BASE STYLES --- */
 * {
-    padding: 0;
-    margin: 0;
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
 }
 
 /* Header */
