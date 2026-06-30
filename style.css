@@ -210,6 +210,29 @@ header {
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
 
+/* --- HOME: FEATURES / WHY US --- */
+.features-grid {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center; /* Centers the cards horizontally on all screens */
+}
+
+.feature-card {
+    background-color: var(--white);
+    padding: 30px;
+    border-radius: 8px;
+    flex: 1 1 calc(33.333% - 20px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+    border: 1px solid var(--border-color);
+    text-align: center; /* Centers the icons, headings, and text inside the cards */
+}
+
+.feature-card h3 {
+    margin: 15px 0 10px;
+    color: var(--primary);
+}
+
 /* Footer */
 footer {
     background-color: aliceblue;
