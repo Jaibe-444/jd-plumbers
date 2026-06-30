@@ -166,7 +166,7 @@ header {
 /* --- HOME PAGE HERO --- */
 .hero {
     position: relative;
-    background-image: url('../images/jd-plumbers-emrgency-repair.jpg');
+    background-image: url('jd-plumbers/assets/images/jd-plumbers-emrgency-repair.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
