@@ -31,7 +31,7 @@ This is a responsive, multi-page website designed for 'JD Plumbers', a local plu
 👉 <strong><a href="https://drive.google.com/drive/folders/1elN3tnvcMY_L0KxhWCY3p3V1fh1p5nNt?usp=drive_link" target="_blank">Click Here to View the Screenshot on Opera</a></strong><br>
 👉 <strong><a href="https://drive.google.com/drive/folders/15VhQP9L-hiVZGncj-TdWdylykJf2Yjqi?usp=drive_link"  target="_blank">Click Here to View the Screenshot on Chrome</a></strong><br>
 👉 <strong><a href="https://drive.google.com/drive/folders/1kSQ3kJwD2YeOiI0169hU7iu4gvZdL7Xk?usp=sharing"  target="_blank">Click Here to View the Screenshot on Firefox</a></strong><br>
-
+👉 <strong><a href="https://drive.google.com/drive/folders/1M-gz3KN4zUrxIIEHOqIo7gFsOff8PTKy?usp=sharing"  target="_blank">Click Here to View the Screenshot on Microsoft Edge </a></strong><br>
 
 * **Color Palette:**
   * **Primary Color (Deep Navy Blue - `#1B365D`):** Represents trust, reliability, and corporate professionalism—essential traits for a dependable emergency service business.
@@ -82,3 +82,5 @@ To run this project locally on your machine:
 * **Images:** All placeholder imagery sourced via high-quality royalty-free providers like [Unsplash / Pexels / Pixabay].
 * **Icons:** Visual icon vectors provided by [FontAwesome / Flaticon].
 * **Educational Context:** Created as part of Milestone Project 1 for [Web application development/ Code Institute].
+* **W3 Schools** For references and code snippets.
+* **Replit.com**For writing and testing out code.
