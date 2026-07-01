@@ -24,8 +24,7 @@ This is a responsive, multi-page website designed for 'JD Plumbers', a local plu
 
 * **Typography:** * **Headers:** 'Montserrat', sans-serif – Chosen for its bold, modern, and highly professional geometric look to make headings stand out.
   * **Body Text:** 'Roboto', sans-serif – Utilized for clean, neutral readability across all service descriptions, ensuring a comfortable reading experience on mobile and desktop alike.
-See the wireframe here:.. jd-plumbers/assets/images/wireframe-desktop.odt
-
+👉 **[Click Here to View the Complete 3-Page Wireframe Blueprint Document](jd-plumbers/assets/images/wireframe-jd-plumbers.odt)**
 
 * **Color Palette:**
   * **Primary Color (Deep Navy Blue - `#1B365D`):** Represents trust, reliability, and corporate professionalism—essential traits for a dependable emergency service business.
