@@ -26,6 +26,10 @@ This is a responsive, multi-page website designed for 'JD Plumbers', a local plu
   * **Body Text:** 'Roboto', sans-serif – Utilized for clean, neutral readability across all service descriptions, ensuring a comfortable reading experience on mobile and desktop alike.
 👉 <strong><a href="https://drive.google.com/file/d/1RWfXH4cNdOwVa5_hIhoZ_yhYMYF9l8jt/view?usp=sharing" target="_blank">Click Here to View the Complete Wireframe PDF Blueprint</a></strong>
 
+### BROWSER/DEVICE TESTING
+
+👉 <strong><a href="https://drive.google.com/drive/folders/1elN3tnvcMY_L0KxhWCY3p3V1fh1p5nNt?usp=drive_link" target="_blank">Click Here to View the Screenshot on Opera</a></strong>
+
 * **Color Palette:**
   * **Primary Color (Deep Navy Blue - `#1B365D`):** Represents trust, reliability, and corporate professionalism—essential traits for a dependable emergency service business.
   * **Secondary/Accent Color (Water Cyan - `#00A3E0`):** Provides a bright, thematic contrast that immediately aligns with water, plumbing, and modern utility branding.
