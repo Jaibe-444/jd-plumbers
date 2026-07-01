@@ -29,6 +29,7 @@ This is a responsive, multi-page website designed for 'JD Plumbers', a local plu
 ### BROWSER/DEVICE TESTING
 
 👉 <strong><a href="https://drive.google.com/drive/folders/1elN3tnvcMY_L0KxhWCY3p3V1fh1p5nNt?usp=drive_link" target="_blank">Click Here to View the Screenshot on Opera</a></strong>
+👉 <strong><a href="https://drive.google.com/drive/folders/15VhQP9L-hiVZGncj-TdWdylykJf2Yjqi?usp=drive_link"  target="_blank">Click Here to View the Screenshot on Chrome</a></strong>
 
 * **Color Palette:**
   * **Primary Color (Deep Navy Blue - `#1B365D`):** Represents trust, reliability, and corporate professionalism—essential traits for a dependable emergency service business.
