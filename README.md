@@ -81,6 +81,6 @@ To run this project locally on your machine:
 ## 📝 Credits & Acknowledgments
 * **Images:** All placeholder imagery sourced via high-quality royalty-free providers like [Unsplash / Pexels / Pixabay].
 * **Icons:** Visual icon vectors provided by [FontAwesome / Flaticon].
-* **Educational Context:** Created as part of Milestone Project 1 for [Web application development/ Code Institute].
 * **W3 Schools** For references and code snippets.
 * **Replit.com**For writing and testing out code.
+* **Educational Context:** Created as part of Milestone Project 1 for [Web application development/ Code Institute].
