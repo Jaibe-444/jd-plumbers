@@ -20,6 +20,21 @@ This is a responsive, multi-page website designed for 'JD Plumbers', a local plu
 * **As an emergency customer**, I want to find a phone number immediately upon landing on the homepage.
 * **As a busy homeowner**, I want a clear online contact form so I can request a booking without calling.
 
+* ## 🛠️ UI/UX Optimization: Emergency Hotline Integration
+
+### 📋 Feature Overview
+To better serve users looking for urgent plumbing assistance and to maximize business conversion goals, an **Emergency Hotline Link (`+44 99 88 77 66 99`)** was introduced directly into the main global website header. Positioned between the brand logo and the navigation menu, it gives immediate visual hierarchy to emergency phone inquiries.
+
+### ⚙️ Technical Implementation & Architecture
+
+#### 1. Accessible HTML Markup Structure
+The anchor tag was integrated within the `.nav-container` parent wrapper. It utilizes the standard `tel:` protocol configuration to enable immediate click-to-call interactions for users browsing on mobile devices:
+
+```html
+<a href="tel:+449988776699" class="header-hotline">
+    <span>📞 Hotline:</span> +44 99 88 77 66 99
+</a>
+
 ### Wireframes & Visual Design
 
 * **Typography:** * **Headers:** 'Montserrat', sans-serif – Chosen for its bold, modern, and highly professional geometric look to make headings stand out.
