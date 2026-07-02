@@ -33,7 +33,6 @@ body {
     flex-direction: column;
 }
 
-
 img {
     max-width: 100%;
     height: auto;
@@ -121,6 +120,32 @@ header {
 
 .logo span {
     color: var(--text-main);
+}
+
+/* --- ADDED: EMERGENCY HOTLINE LINK COMPONENT --- */
+.header-hotline {
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--primary);
+    border: 2px dashed var(--primary);
+    padding: 6px 16px;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    display: inline-block;
+}
+
+.header-hotline span {
+    color: var(--text-main);
+}
+
+.header-hotline:hover {
+    background-color: var(--primary);
+    color: var(--white);
+    border-style: solid;
+}
+
+.header-hotline:hover span {
+    color: var(--white);
 }
 
 /* Pure CSS Hamburger Control Trigger */
@@ -253,7 +278,7 @@ header {
     overflow: hidden;
     border: 1px solid var(--border-color);
     box-shadow: 0 4px 12px rgba(0,0,0,0.03);
-    flex: 1 1 calc(25% - 20px); /* Desktop 4-column layout layout allocation */
+    flex: 1 1 calc(25% - 20px); /* Desktop 4-column layout allocation */
     display: flex;
     flex-direction: column;
 }
@@ -363,7 +388,7 @@ header {
     outline: 2px solid var(--primary);
     background-color: var(--white);
 }
-/* Footer */
+
 /* --- FOOTER (4-COLUMNS WITH MAP & SOCIALS) --- */
 footer {
     background-color: #1e2229;
@@ -486,13 +511,28 @@ footer {
 }
 
 @media (max-width: 768px) {
+    /* Updated container to let elements wrap smoothly on narrow devices */
+    .nav-container {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 15px 20px;
+    }
+
+    /* Pushes hotline onto its own full-width row underneath the logo/hamburger line */
+    .header-hotline {
+        order: 3;
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
+    }
+
     .hamburger-icon {
         display: flex; 
     }
 
     .nav-menu {
         position: absolute;
-        top: 80px;
+        top: 100%; /* Automatically calculates right beneath the wrapped header height */
         left: -100%;
         width: 100%;
         height: auto;
