@@ -134,3 +134,5 @@ To run this project on your own computer:
     Icons: Visual icon vectors provided by FontAwesome and Flaticon.
 
     W3Schools & Replit: Helpful tools used during development for syntax references and quick code compiling.
+    
+    **Educational Context:** Created as part of Milestone Project 1 for [Web Application Development / Code Institute].
