@@ -37,20 +37,20 @@ To better serve users looking for urgent plumbing assistance and to help the bus
 #### 1. Accessible HTML Markup Structure
 The anchor tag was placed right inside the `.nav-container` wrapper. It uses the standard `tel:` protocol configuration so that users on mobile phones can simply tap the link to call immediately:
 
-```html
+
 <a href="tel:+449988776699" class="header-hotline">
     <span>📞 Hotline:</span> +44 99 88 77 66 99
 </a>
-```
-2. Layout Distribution & Typography Hierarchy
 
-    Desktop Alignment Layout: The website uses CSS Flexbox properties (display: flex; and justify-content: space-between;) on the .nav-container to automatically push the logo to the left, center the emergency hotline link so it stands out, and align the navigation buttons neatly on the right.
+### 2. Layout Distribution & Typography Hierarchy
 
-    Typography Choices:
+ * ** Desktop Alignment Layout: The website uses CSS Flexbox properties (display: flex; and justify-content: space-between;) on the .nav-container to automatically push the logo to the left, center the emergency hotline link so it stands out, and align the navigation buttons neatly on the right. **
 
-        Headers: 'Montserrat', sans-serif – Chosen because it is bold, modern, and looks highly professional for headings.
+ * **Typography Choices:**
 
-        Body Text: 'Roboto', sans-serif – Used for clean readability across all service descriptions, ensuring a comfortable reading experience on both mobiles and desktop screens.
+   * ** Headers: 'Montserrat', sans-serif – Chosen because it is bold, modern, and looks highly professional for headings.
+
+   * ** Body Text: 'Roboto', sans-serif – Used for clean readability across all service descriptions, ensuring a comfortable reading experience on both mobiles and desktop screens.
 
 👉 <strong><a href="https://drive.google.com/file/d/1RWfXH4cNdOwVa5_hIhoZ_yhYMYF9l8jt/view?usp=drive_link" target="_blank">Click Here to View the wireframe</a></strong><br><br>
 
@@ -66,12 +66,11 @@ To make sure the layout looks correct and functions properly across different we
 
 
 🎨 Color Palette & Styling
-    Primary Color (Deep Navy Blue - #1B365D): Used to represent trust, reliability, and corporate professionalism, which are vital for a dependable emergency trade business.
 
-    Secondary/Accent Color (Water Cyan - #00A3E0): Provides a bright contrast that fits the water/plumbing theme and highlights call-to-action buttons.
-
-    Neutral Backgrounds (Crisp White - #FFFFFF & Light Gray - #F8F9FA): Used to maintain high readability, clean spacing, and an uncluttered look.
-
+* **Primary Color (Deep Navy Blue - `#1B365D`):** Used to represent trust, reliability, and corporate professionalism, which are vital for a dependable emergency trade business.
+* **Secondary/Accent Color (Water Cyan - `#00A3E0`):** Provides a bright contrast that fits the water/plumbing theme and highlights call-to-action buttons.
+* **Neutral Backgrounds (Crisp White - `#FFFFFF` & Light Gray - `#F8F9FA`):** Used to maintain high readability, clean spacing, and an uncluttered look.
+  **
 ⚡ Core Features Implemented
 
     Multi-Page Architecture: Clean navigation across three separate pages: Home (index.html), Services (services.html), and Contact (contact.html).
@@ -84,21 +83,21 @@ To make sure the layout looks correct and functions properly across different we
 
 🛠️ Technologies Used
 
-    HTML5 - For semantic page structuring (<header>, <nav>, <main>, <section>, <footer>).
+  **  HTML5 - For semantic page structuring (<header>, <nav>, <main>, <section>, <footer>).
 
-    CSS3 - For custom layouts, typography styling, colors, and responsive media breakpoint design.
+   ** CSS3 - For custom layouts, typography styling, colors, and responsive media breakpoint design.
 
-    Git & GitHub - For version control management and pushing code updates.
+   * Git & GitHub - For version control management and pushing code updates.
 
-    GitHub Pages - For hosting the live public website.
+   * GitHub Pages - For hosting the live public website.
 
-    W3Schools - Used as a helpful reference tool for looking up syntax examples.
+   * W3Schools - Used as a helpful reference tool for looking up syntax examples.
 
-    Replit.com - Used as an online workspace for writing, running, and testing out bits of code.
+  *  Replit.com - Used as an online workspace for writing, running, and testing out bits of code.
 
 📊 Quality & Performance Validation
 
-    Google Lighthouse Testing:
+  *  Google Lighthouse Testing:
 
         Performance Core Audit Score: 95%
 
@@ -109,17 +108,17 @@ Live Deployment Steps
 
 This project was deployed directly using GitHub Pages by following these standard steps:
 
-    Organized the files to ensure index.html sits at the absolute root level folder.
+   * Organized the files to ensure index.html sits at the absolute root level folder.
 
-    Configured the GitHub Repository settings to build the live page from the main branch.
+  *  Configured the GitHub Repository settings to build the live page from the main branch.
 
-    The site updates automatically whenever new code changes are committed and pushed to GitHub.
+  *  The site updates automatically whenever new code changes are committed and pushed to GitHub.
 
 How to Run Locally
 
 To run this project on your own computer:
 
-    Clone the repository using Git:
+   * Clone the repository using Git:
     Bash
 
 * 🖥️ View the <strong><a href="https://github.com/jaibe-444/jd-plumbers.git" target="_blank">git clone</a></strong>
@@ -130,10 +129,10 @@ To run this project on your own computer:
 
 📝 Credits & Acknowledgments
 
-    Images: All placeholder imagery sourced from high-quality, royalty-free photography websites like Unsplash, Pexels, and Pixabay.
+  *  Images: All placeholder imagery sourced from high-quality, royalty-free photography websites like Unsplash, Pexels, and Pixabay.
 
-    Icons: Visual icon vectors provided by FontAwesome and Flaticon.
+   * Icons: Visual icon vectors provided by FontAwesome and Flaticon.
 
-    W3Schools & Replit: Helpful tools used during development for syntax references and quick code compiling.
+ *   W3Schools & Replit: Helpful tools used during development for syntax references and quick code compiling.
     
-    **Educational Context:** Created as part of Milestone Project 1 for [Web Application Development / Code Institute].
+  *  **Educational Context:** Created as part of Milestone Project 1 for [Web Application Development / Code Institute].
