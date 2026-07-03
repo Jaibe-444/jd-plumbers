@@ -63,6 +63,7 @@ To make sure the layout looks correct and functions properly across different we
 
 👉 <strong><a href="https://drive.google.com/drive/folders/1cAH_d--VtlieFx4mtI-tgfBqRoLB7K8H?usp=drive_link" target="_blank">Click Here to View the screenshot on Firefox</a></strong><br>
 👉 <strong><a href="https://drive.google.com/drive/folders/1M-gz3KN4zUrxIIEHOqIo7gFsOff8PTKy?usp=drive_link" target="_blank">Click Here to View the screenshot on Edge </a></strong><br>
+
 🎨 Color Palette & Styling
 
     Primary Color (Deep Navy Blue - #1B365D): Used to represent trust, reliability, and corporate professionalism, which are vital for a dependable emergency trade business.
