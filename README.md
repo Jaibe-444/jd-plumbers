@@ -52,19 +52,16 @@ The anchor tag was placed right inside the `.nav-container` wrapper. It uses the
 
         Body Text: 'Roboto', sans-serif – Used for clean readability across all service descriptions, ensuring a comfortable reading experience on both mobiles and desktop screens.
 
-👉 Click Here to View the Complete Wireframe PDF Blueprint
+👉 <strong><a href="https://drive.google.com/file/d/1RWfXH4cNdOwVa5_hIhoZ_yhYMYF9l8jt/view?usp=drive_link" target="_blank">Click Here to View the wireframe</a></strong>
 🖥️ Cross-Browser & Device Testing
 
 To make sure the layout looks correct and functions properly across different web browsers, I tested the pages manually. You can check the proof screenshots in the Google Drive folders below:
 
-    👉 Click Here to View the Screenshot on Opera
+👉 <strong><a href="https://drive.google.com/drive/folders/15VhQP9L-hiVZGncj-TdWdylykJf2Yjqi?usp=drive_link" target="_blank">Click Here to View the screenshot on Opera</a></strong>
+👉 <strong><a href="https://drive.google.com/drive/folders/15VhQP9L-hiVZGncj-TdWdylykJf2Yjqi?usp=drive_link" target="_blank">Click Here to View the screenshot on Chrome</a></strong>
 
-    👉 Click Here to View the Screenshot on Chrome
-
-    👉 Click Here to View the Screenshot on Firefox
-
-    👉 Click Here to View the Screenshot on Microsoft Edge
-
+👉 <strong><a href="https://drive.google.com/drive/folders/1cAH_d--VtlieFx4mtI-tgfBqRoLB7K8H?usp=drive_link" target="_blank">Click Here to View the screenshot on Firefox</a></strong>
+👉 <strong><a href="https://drive.google.com/drive/folders/1M-gz3KN4zUrxIIEHOqIo7gFsOff8PTKy?usp=drive_link" target="_blank">Click Here to View the screenshot on Edge </a></strong>
 🎨 Color Palette & Styling
 
     Primary Color (Deep Navy Blue - #1B365D): Used to represent trust, reliability, and corporate professionalism, which are vital for a dependable emergency trade business.
