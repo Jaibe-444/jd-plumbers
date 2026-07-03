@@ -83,7 +83,7 @@ To make sure the layout looks correct and functions properly across different we
 
 🛠️ Technologies Used
 
-  **  HTML5 - For semantic page structuring (<header>, <nav>, <main>, <section>, <footer>).
+  **  HTML5 - For semantic page structuring (<header, <nav, <main, <section, <footer).
 
    ** CSS3 - For custom layouts, typography styling, colors, and responsive media breakpoint design.
 
