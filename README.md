@@ -121,7 +121,7 @@ To run this project on your own computer:
     Clone the repository using Git:
     Bash
 
-    git clone https://github.com/jaibe-444/jd-plumbers.git
+* 🖥️ View the <strong><a href="https://github.com/jaibe-444/jd-plumbers.git" target="_blank">git clone</a></strong>
 
     Open the project folder in your preferred text editor (like Visual Studio Code).
 
