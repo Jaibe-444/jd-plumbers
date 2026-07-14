@@ -108,8 +108,8 @@ To make sure the layout looks correct and functions properly across different we
 ## 🛠️ Code Validation (HTML/CSS)
 To make sure the website's code is clean, standards-compliant, and error-free, I ran the files through official validation tools. You can view the verification screenshots here:
 
-* 👉 **HTML Validation:** <strong><a href="[Milestone_Project_1\jd-plumbers\assets\images\Showing-results-for-contents-of-text-input-area-checked-with-vnu-26-7-8-Nu-Html-Checker.png](https://www.awesomescreenshot.com/image/61884392?key=4a7be2b5e4ef44a30a7c680b91b79199)" target="_blank">View Nu HTML Checker Validation Result</a></strong><br>
-* 👉 **CSS Validation:** <strong><a href="[Milestone_Project_1\jd-plumbers\assets\images\W3C-CSS-Validator-results-for-TextArea-CSS-level-3-SVG-.png](https://www.awesomescreenshot.com/image/61884392?key=4a7be2b5e4ef44a30a7c680b91b79199)" target="_blank">View W3C CSS Validation Result</a></strong>
+* 👉 **HTML Validation:** <strong><a href="https://www.awesomescreenshot.com/image/61884392?key=4a7be2b5e4ef44a30a7c680b91b79199" target="_blank">View Nu HTML Checker Validation Result</a></strong>
+* 👉 **CSS Validation:** <strong><a href="https://www.awesomescreenshot.com/image/61884392?key=4a7be2b5e4ef44a30a7c680b91b79199" target="_blank">View W3C CSS Validation Result</a></strong>
 
 ---
 
