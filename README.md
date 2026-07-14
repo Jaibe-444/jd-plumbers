@@ -18,6 +18,14 @@ This is a multi-page responsive website built for **JD Plumbers**, a local trade
 
 ---
 
+### How These User Stories Were Met
+
+To ensure a user-friendly experience, I designed and coded specific solutions for each of these goals:
+
+* **Addressing Story 1 (Finding services instantly):** I structured the Home Page layout with a clear, prominent services section featuring categorized service cards (including the newly added cards for Boiler Repairs, Emergency Jetting, and Fixture Installations). This allows users to confirm within seconds of landing that JD Plumbers can resolve their exact plumbing issue.
+* **Addressing Story 2 (Immediate emergency access):** I integrated a bright, high-visibility Emergency Hotline Link (`+44 99 88 77 66 99`) directly into the global header. Positioned right at the top of every page, mobile users can simply tap this link to trigger an immediate phone call during an active household emergency.
+* **Addressing Story 3 (Booking without calling):** I built a fully functional, structured contact form on the dedicated Contact Page (`contact.html`). Complete with client-side input validation, it allows busy property owners to send a detailed inquiry and request a quote at any time of day without needing to make a phone call.
+
 ## 🎨 User Experience (UX) & Design
 
 ### User Stories
