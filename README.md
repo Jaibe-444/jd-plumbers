@@ -103,12 +103,16 @@ To make sure the layout looks correct and functions properly across different we
 
         Tested using the Google Chrome extension to make sure the pages load fast, image sizes are optimized, and everything passes accessibility checks.
      
-     ## 🛠️ Code Validation
+---
 
-To make sure the website's code is clean, standards-compliant, and error-free, I ran the files through official validation tools. You can view the verification screenshots here:<br>
+## 🛠️ Code Validation (HTML/CSS)
 
-* 👉 **HTML Validation:** <strong><a href="jd-plumbers/assets/images/Showing-results-for-contents-of-text-input-area-checked-with-vnu-26-7-8-Nu-Html-Checker.png" target="_blank">View Nu HTML Checker Validation Result</a></strong><br>
-* 👉 **CSS Validation:** <strong><a href="jd-plumbers/assets/images/W3C-CSS-Validator-results-for-TextArea-CSS-level-3-SVG-.png" target="_blank">View W3C CSS Validation Result</a></strong><br>
+To ensure high-quality production standards and compliance with modern web specifications, all source files were run through official validation engines. The verified results can be viewed here:
+
+* 👉 <strong><a href="./jd-plumbers/assets/images/Showing-results-for-contents-of-text-input-area-checked-with-vnu-26-7-8-Nu-Html-Checker.png" target="_blank">View Nu HTML Checker Validation Screenshot</a></strong>
+* 👉 <strong><a href="./jd-plumbers/assets/images/W3C-CSS-Validator-results-for-TextArea-CSS-level-3-SVG-.png" target="_blank">View W3C CSS Validator Results Screenshot</a></strong>
+
+---
 
 🚀 Deployment & Local Setup
 Live Deployment Steps
