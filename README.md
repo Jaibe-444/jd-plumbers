@@ -102,7 +102,6 @@ To make sure the layout looks correct and functions properly across different we
         Performance Core Audit Score: 95%
 
         Tested using the Google Chrome extension to make sure the pages load fast, image sizes are optimized, and everything passes accessibility checks.
-     
 ---
 
 ## 🛠️ Code Validation (HTML/CSS)
@@ -112,7 +111,6 @@ To make sure the website's code is clean, standards-compliant, and error-free, I
 * 👉 **CSS Validation:** <strong><a href="https://www.awesomescreenshot.com/image/61884392?key=4a7be2b5e4ef44a30a7c680b91b79199" target="_blank">View W3C CSS Validation Result</a></strong>
 
 ---
-
 🚀 Deployment & Local Setup
 Live Deployment Steps
 
