@@ -102,6 +102,13 @@ To make sure the layout looks correct and functions properly across different we
         Performance Core Audit Score: 95%
 
         Tested using the Google Chrome extension to make sure the pages load fast, image sizes are optimized, and everything passes accessibility checks.
+     
+     ## 🛠️ Code Validation
+
+To make sure the website's code is clean, standards-compliant, and error-free, I ran the files through official validation tools. You can view the verification screenshots here:<br>
+
+* 👉 **HTML Validation:** <strong><a href="jd-plumbers/assets/images/Showing-results-for-contents-of-text-input-area-checked-with-vnu-26-7-8-Nu-Html-Checker.png" target="_blank">View Nu HTML Checker Validation Result</a></strong><br>
+* 👉 **CSS Validation:** <strong><a href="jd-plumbers/assets/images/W3C-CSS-Validator-results-for-TextArea-CSS-level-3-SVG-.png" target="_blank">View W3C CSS Validation Result</a></strong><br>
 
 🚀 Deployment & Local Setup
 Live Deployment Steps
