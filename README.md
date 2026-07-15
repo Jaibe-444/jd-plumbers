@@ -144,9 +144,7 @@ To run this project on your own computer:
     Open the index.html file directly in any modern web browser to view the site locally.
 
 📝 Credits & Acknowledgments
-
-  *  Images: All placeholder imagery sourced from high-quality, royalty-free photography websites like Unsplash, Pexels, and Pixabay.
-
+* 📷 **Images:** All placeholder imagery sourced from high-quality, royalty-free photography websites like <strong><a href="https://unsplash.com" target="_blank">Unsplash</a></strong>, <strong><a href="https://www.pexels.com" target="_blank">Pexels</a></strong>, and <strong><a href="https://pixabay.com" target="_blank">Pixabay</a></strong>.
    * Icons: Visual icon vectors provided by FontAwesome and Flaticon.
 * 🛠️ <strong><a href="https://www.w3schools.com/css/css3_variables.asp" target="_blank">W3Schools</a></strong> & <strong><a href="https://replit.com" target="_blank">Replit</a></strong>: Helpful tools used during development for syntax references and quick code compiling.
   *  **Educational Context:** Created as part of Milestone Project 1 for [Web Application Development / Code Institute].
