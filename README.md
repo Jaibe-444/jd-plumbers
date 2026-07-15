@@ -149,6 +149,6 @@ To run this project on your own computer:
 
    * Icons: Visual icon vectors provided by FontAwesome and Flaticon.
 
- *   * 🛠️ <strong><a href="https://www.w3schools.com" target="_blank">W3Schools</a></strong> & <strong><a href="https://replit.com" target="_blank">Replit</a></strong>: Helpful tools used during development for syntax references and quick code compiling.
+ *   * 🛠️ <strong><a href="[https://www.w3schools.com](https://www.w3schools.com/css/css3_variables.asp)" target="_blank">W3Schools</a></strong> & <strong><a href="https://replit.com" target="_blank">Replit</a></strong>: Helpful tools used during development for syntax references and quick code compiling.
     
   *  **Educational Context:** Created as part of Milestone Project 1 for [Web Application Development / Code Institute].
