@@ -147,4 +147,5 @@ To run this project on your own computer:
 * 📷 **Images:** All placeholder imagery sourced from high-quality, royalty-free photography websites like <strong><a href="https://unsplash.com" target="_blank">Unsplash</a></strong>, <strong><a href="https://www.pexels.com" target="_blank">Pexels</a></strong>, and <strong><a href="https://pixabay.com" target="_blank">Pixabay</a></strong>.
    * Icons: Visual icon vectors provided by FontAwesome and Flaticon.
 * 🛠️ <strong><a href="https://www.w3schools.com/css/css3_variables.asp" target="_blank">W3Schools</a></strong> & <strong><a href="https://replit.com" target="_blank">Replit</a></strong>: Helpful tools used during development for syntax references and quick code compiling.
+* * 📅 **Calendly:** Thanks to <strong><a href="https://calendly.com" target="_blank">Calendly</a></strong> for the free booking application embedded on the contact page.
   *  **Educational Context:** Created as part of Milestone Project 1 for [Web Application Development / Code Institute].
