@@ -404,6 +404,48 @@ header {
     background-color: var(--white);
 }
 
+/* Booking Section Styling */
+.booking-section {
+    padding: 60px 20px;
+    background-color: #f8f9fa; /* Light Gray neutral background */
+    text-align: center;
+}
+
+.booking-section .section-title {
+    font-family: 'Montserrat', sans-serif;
+    color: #1b365d; /* Brand Navy Blue */
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.booking-section .section-subtitle {
+    font-family: 'Roboto', sans-serif;
+    color: #555555;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+}
+
+/* Responsive Wrapper */
+.booking-container {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05); /* Soft professional shadow */
+    overflow: hidden;
+}
+
+/* Tablet & Mobile Media Breakpoint */
+@media (max-width: 768px) {
+    .booking-section {
+        padding: 40px 15px;
+    }
+    
+    .booking-container {
+        box-shadow: none; /* Flatten shadow on small screens for clean layout */
+    }
+}
+
 /* --- FOOTER (4-COLUMNS WITH MAP & SOCIALS) --- */
 footer {
     background-color: #1e2229;
